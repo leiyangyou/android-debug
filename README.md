@@ -1,6 +1,8 @@
 android-debug
 =============
 
+[![Join the chat at https://gitter.im/leiyangyou/android-debug](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/leiyangyou/android-debug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Crash reporting, logging and analytics utilities for android
 
 This package makes it (hopefully) a little easier to try out the various
